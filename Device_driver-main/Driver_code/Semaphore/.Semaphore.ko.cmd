@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/johny/kishore_material/Driver_code/Semaphore/Semaphore.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /mnt/hgfs/johny/kishore_material/Driver_code/Semaphore/Semaphore.ko /mnt/hgfs/johny/kishore_material/Driver_code/Semaphore/Semaphore.o /mnt/hgfs/johny/kishore_material/Driver_code/Semaphore/Semaphore.mod.o;  true

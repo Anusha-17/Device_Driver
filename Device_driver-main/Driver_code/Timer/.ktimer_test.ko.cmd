@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/johny/kishore_material/Driver_code/Timer/ktimer_test.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /mnt/hgfs/johny/kishore_material/Driver_code/Timer/ktimer_test.ko /mnt/hgfs/johny/kishore_material/Driver_code/Timer/ktimer_test.o /mnt/hgfs/johny/kishore_material/Driver_code/Timer/ktimer_test.mod.o;  true

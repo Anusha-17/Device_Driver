@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/johny/kishore_material/Driver_code/First_device_driver/First_device_driver.mod := { echo  /mnt/hgfs/johny/kishore_material/Driver_code/First_device_driver/First_device_driver.o;  echo; } > /mnt/hgfs/johny/kishore_material/Driver_code/First_device_driver/First_device_driver.mod

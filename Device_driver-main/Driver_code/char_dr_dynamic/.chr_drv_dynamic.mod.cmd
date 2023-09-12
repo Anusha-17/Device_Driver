@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/johny/kishore_material/Driver_code/char_dr_dynamic/chr_drv_dynamic.mod := { echo  /mnt/hgfs/johny/kishore_material/Driver_code/char_dr_dynamic/chr_drv_dynamic.o; echo; } > /mnt/hgfs/johny/kishore_material/Driver_code/char_dr_dynamic/chr_drv_dynamic.mod

@@ -1,0 +1,37 @@
+1. choose  2 pins 
+	1 pin for output  - led 
+	1 pin for input . 
+
+2. In init finction :
+
+    Verify the GPIO is valid or not. -> API -> gpio_is_valid
+    If it is valid, then you can request the GPIO from the Kernel GPIO subsystem.-> API-> gpio_request
+    Set the direction of the GPIO as an input-> API  -> gpio_direction_output
+
+
+	
+   Get the gpio pin no for the irq-> gpio_to_irq(input pin number)
+   
+	irq_no = gpio_to_irq(input pin number)
+
+user request_irq API and register the interrupt and handler 
+
+request_irq(irq_no,             //IRQ number
+                  (void *)gpio_irq_handler,   //IRQ handler
+                  IRQF_TRIGGER_RISING,        //Handler will be called in raising edge
+                  "gpio_irq_device",          //used to identify the device name using this IRQ
+                  NULL))
+
+
+3. in exit function 
+
+free_irq(irq_no,NULL);
+free gpio by using  gpio_free(pin no)
+
+
+4. complete the gpio_irq_handler
+
+
+
+
+

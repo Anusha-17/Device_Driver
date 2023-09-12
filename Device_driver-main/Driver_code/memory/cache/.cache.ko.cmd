@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/johny/kishore_material/Driver_code/memory/cache/cache.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /mnt/hgfs/johny/kishore_material/Driver_code/memory/cache/cache.ko /mnt/hgfs/johny/kishore_material/Driver_code/memory/cache/cache.o /mnt/hgfs/johny/kishore_material/Driver_code/memory/cache/cache.mod.o;  true

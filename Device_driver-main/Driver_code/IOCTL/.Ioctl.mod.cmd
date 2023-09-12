@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/johny/kishore_material/Driver_code/IOCTL/Ioctl.mod := { echo  /mnt/hgfs/johny/kishore_material/Driver_code/IOCTL/Ioctl.o;  echo; } > /mnt/hgfs/johny/kishore_material/Driver_code/IOCTL/Ioctl.mod

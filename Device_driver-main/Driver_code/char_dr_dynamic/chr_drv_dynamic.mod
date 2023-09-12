@@ -1,0 +1,2 @@
+/mnt/hgfs/johny/kishore_material/Driver_code/char_dr_dynamic/chr_drv_dynamic.o
+

@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/johny/kishore_material/Driver_code/major_minor/major_minoor_dev.mod := { echo  /mnt/hgfs/johny/kishore_material/Driver_code/major_minor/major_minoor_dev.o;  echo; } > /mnt/hgfs/johny/kishore_material/Driver_code/major_minor/major_minoor_dev.mod

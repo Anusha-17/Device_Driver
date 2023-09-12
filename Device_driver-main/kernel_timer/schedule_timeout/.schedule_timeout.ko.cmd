@@ -1,0 +1,1 @@
+cmd_/home/manikanta/Desktop/timer/schedule_timeout/schedule_timeout.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/manikanta/Desktop/timer/schedule_timeout/schedule_timeout.ko /home/manikanta/Desktop/timer/schedule_timeout/schedule_timeout.o /home/manikanta/Desktop/timer/schedule_timeout/schedule_timeout.mod.o ;  true

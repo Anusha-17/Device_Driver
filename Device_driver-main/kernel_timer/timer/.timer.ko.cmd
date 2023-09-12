@@ -1,0 +1,1 @@
+cmd_/home/manikanta/Desktop/pres/timer/timer.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/manikanta/Desktop/pres/timer/timer.ko /home/manikanta/Desktop/pres/timer/timer.o /home/manikanta/Desktop/pres/timer/timer.mod.o ;  true

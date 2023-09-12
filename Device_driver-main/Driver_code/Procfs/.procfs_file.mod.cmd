@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/johny/kishore_material/Driver_code/Procfs/procfs_file.mod := { echo  /mnt/hgfs/johny/kishore_material/Driver_code/Procfs/procfs_file.o;  echo; } > /mnt/hgfs/johny/kishore_material/Driver_code/Procfs/procfs_file.mod

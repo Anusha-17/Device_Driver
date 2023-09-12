@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/johny/kishore_material/Driver_code/Interrupt_basic/interrupt.mod := { echo  /mnt/hgfs/johny/kishore_material/Driver_code/Interrupt_basic/interrupt.o;  echo; } > /mnt/hgfs/johny/kishore_material/Driver_code/Interrupt_basic/interrupt.mod

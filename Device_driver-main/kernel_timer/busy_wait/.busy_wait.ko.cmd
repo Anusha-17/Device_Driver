@@ -1,0 +1,1 @@
+cmd_/home/manikanta/Desktop/pres/busy_wait/busy_wait.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/manikanta/Desktop/pres/busy_wait/busy_wait.ko /home/manikanta/Desktop/pres/busy_wait/busy_wait.o /home/manikanta/Desktop/pres/busy_wait/busy_wait.mod.o ;  true

@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/johny/kishore_material/Driver_code/kthread/kthread.mod := { echo  /mnt/hgfs/johny/kishore_material/Driver_code/kthread/kthread.o;  echo; } > /mnt/hgfs/johny/kishore_material/Driver_code/kthread/kthread.mod

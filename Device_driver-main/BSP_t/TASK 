@@ -1,0 +1,39 @@
+Day3 :
+
+1. Prepare code base for Rasberry pi on linux host  - done 
+2. Understand GPIO  - done 
+3. implement Char drv for GPIO --- done
+4. implemented user space code  to test GPIO .  -- done 
+5. ARM aRCH  ch 1, ch2 completed 
+
+
+
+1.  try to implement user space code 
+ open should call and open the driver  /dev/mygpio_drv
+request gpio
+set direction
+
+
+
+in  write you have to set  the gpio pin   
+
+In read we have to read gpio pin (gpio_read)
+
+
+in close you have to close the driver 
+
+
+2. so far you have usring existing zimage for testing 
+
+3. use your base zimage and load it in target board  --today
+
+4. compile your driver in your local machine or implement the code in pi  board  
+
+5. sudo insmod your driver name 
+6. lsmod check the driver 
+7. dmesg check the logs 
+
+8 implement usespace code 
+
+
+

@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/johny/kishore_material/Driver_code/Timer/ktimer_test.mod := { echo  /mnt/hgfs/johny/kishore_material/Driver_code/Timer/ktimer_test.o;  echo; } > /mnt/hgfs/johny/kishore_material/Driver_code/Timer/ktimer_test.mod
